@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Ultimate Mod Pack v2.0",
+    "description": "Самая полная сборка модов для GTA SAMP. Включает все популярные моды и оптимизации для максимальной производительности.",
+    "images": [
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/images/preview1.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/images/preview2.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/images/preview3.png"
+    ],
+    "fileName": "ultimate_mod_pack.nizzir",
+    "fileSize": 157286400,
+    "imageCount": 3
+  },
+  {
+    "id": 2,
+    "title": "Graphics Overhaul 2024",
+    "description": "Улучшенная графика, текстуры высокого разрешения, новые шейдеры и эффекты для лучшего визуального опыта.",
+    "images": [
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/images/graphics1.png"
+    ],
+    "fileName": "graphics_overhaul.nizzir",
+    "fileSize": 73400320,
+    "imageCount": 1
+  },
+  {
+    "id": 3,
+    "title": "Performance Boost Pack",
+    "description": "Оптимизация для слабых ПК, повышение FPS, удаление ненужных эффектов для максимальной производительности.",
+    "images": [
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/images/performance1.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/images/performance2.png"
+    ],
+    "fileName": "performance_boost.nizzir",
+    "fileSize": 52428800,
+    "imageCount": 2
+  }
+]
