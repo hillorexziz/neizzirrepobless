@@ -3,13 +3,24 @@
     "id": 1,
     "title": "SCREAM ASSEMBLY",
     "description": "Сборка сделанная на гоавне и палках без стараний и усилий за 6 месяцев",
+    "videoUrl": "zal.mp4",
     "images": [
       "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview1.png",
       "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview2.png",
       "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview3.png"
     ],
-    "fileName": "Scream Assembly.neizzir",
-    "fileSize": 117286400,
-    "imageCount": 3
   },
+  {
+    "id": 1,
+    "title": "ЗАЛУПА А НЕ СБОРКА",
+    "description": "Сборка сделанная на гоавне и палках без стараний и усилий за 6 месяцев",
+    "videoUrl": "zal.mp4",
+    "images": [
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview1.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview2.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview3.png"
+    ],
+  },
+  
+
 ]
