@@ -20,5 +20,37 @@
       "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview2.png",
       "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview3.png"
     ]
-    }
+    {
+    "id": 3,
+    "title": "SCM ASSEMBLY",
+    "description": "Сборка сделанная на гоавне и палках без стараний и усилий за 6 месяцев",
+    "videoUrl": "zal.mp4",
+    "images": [
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview1.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview2.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview3.png"
+    ]
+    },
+    {
+    "id": 4,
+    "title": "SCEAM ASBLY",
+    "description": "Сборка сделанная на гоавне и палках без стараний и усилий за 6 месяцев",
+    "videoUrl": "zal.mp4",
+    "images": [
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview1.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview2.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview3.png"
+    ]
+    },
+      {
+    "id": 5,
+    "title": "SCEAM ASSEMBLY",
+    "description": "Сборка сделанная на гоавне и палках без стараний и усилий за 6 месяцев",
+    "videoUrl": "zal.mp4",
+    "images": [
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview1.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview2.png",
+      "https://raw.githubusercontent.com/hillorexziz/neizzirrepobless/main/builds/preview3.png"
+    ]
+      }
 ]
